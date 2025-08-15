@@ -1,10 +1,10 @@
 :root{
-    --cor-fundo: #6e4d1a;
-    --cor-principal: #9e6d25 ;
-    --cor-secundaria: #ff8800;
-    --cor-destaque: #f07807;
-    --cor-texto: #f8ba87;
-}
+    --cor-fundo: #01080E;
+    --cor-principal: #0B0D20 ;
+    --cor-secundaria: #212333;
+    --cor-destaque: #2BDEFD;
+    --cor-texto: #D7F9FF;
+    }
 
 body{
     background-color: var(--cor-fundo);
