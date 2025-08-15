@@ -6,46 +6,46 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Qual é o principal objetivo do Sistema Único de Saúde (SUS)?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Garantir o acesso universal e igualitário aos serviços de saúde, bem como promover, proteger e recuperar a saúde, buscando a integralidade da assistência para toda a população brasileira.",
+                afirmacao: "Você utiliza uma linguagem mais técnica e formal, alinhada com os termos e conceitos presentes na legislação e nos documentos oficiais do SUS. É a resposta ideal para quem busca uma definição precisa e acadêmica."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Fazer com que toda a população do Brasil tenha direito à saúde de graça, sem discriminação, e que os cuidados de saúde sejam completos, da prevenção até o tratamento.",
+                afirmacao: "Você usa uma linguagem mais acessível e direta, traduzindo o conceito do SUS para o cotidiano do cidadão comum. É uma resposta mais fácil de entender para quem não é da área da saúde."
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "O que significa o princípio da integralidade no SUS?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Significa que a saúde deve ser vista como um todo. Por exemplo, se uma pessoa precisa de um tratamento, ela deve ser cuidada em todas as etapas, desde a consulta inicial, passando por exames e cirurgias, até a reabilitação, sem interrupções e de forma coordenada.",
+                    afirmacao: "Você foca em um exemplo prático para ilustrar o conceito, tornando a explicação mais concreta e fácil de visualizar. É uma resposta perfeita para quem aprende melhor por meio de situações reais."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Refere-se à oferta de um conjunto de ações e serviços de saúde que atendam às necessidades de cada indivíduo, desde o nível primário de atenção até o de alta complexidade, contemplando a promoção, a prevenção e a recuperação da saúde. ",
+                    afirmacao: "Você apresenta a definição de forma mais teórica e conceitual, usando termos específicos como nível primário e alta complexidade, é uma resposta que descreve o princípio de forma abrangente, ideal para um contexto de estudo ou debate mais aprofundado."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Qual é a importância da participação da comunidade no SUS?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "A participação comunitária é essencial para que a população possa fiscalizar e influenciar as decisões sobre a saúde em sua cidade, garantindo que os serviços atendam às suas necessidades reais. Isso acontece por meio dos Conselhos e Conferências de Saúde.",
+                    afirmacao: "Você foca no como e para quê. Ela explica de forma prática o que é a participação comunitária (fiscalizar, influenciar) e onde ela ocorre (Conselhos, Conferências). É uma resposta que ensina o cidadão sobre o papel dele no sistema."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "É um dos princípios doutrinários do SUS, que estabelece o controle social como um mecanismo de exercício da democracia. A participação da comunidade legitima o sistema e promove a corresponsabilidade na gestão da saúde, assegurando que o usuário não seja apenas um paciente, mas um ator político e social.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Você aborda o porquê, explorando o conceito de forma mais profunda. Ela utiliza termos como princípios doutrinários e corresponsabilidade, tratando a participação como um pilar democrático e social do SUS. É uma resposta mais adequada para quem busca entender a base teórica do sistema."
                 }    
                
             ]
